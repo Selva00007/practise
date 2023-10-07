@@ -26,3 +26,4 @@ class Solution {
         return max;
     }
 }
+//code is now edited
